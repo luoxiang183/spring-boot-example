@@ -6,4 +6,4 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-web</artifactId>
 	</dependency>
-4.在浏览器中输入：http://localhost:8080/hello?name=World
+5.在浏览器中输入：http://localhost:8080/hello?name=World
